@@ -1,0 +1,47 @@
+/* Reset default margin and padding */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+  }
+
+  #txt1 {
+    text-align: center;
+   
+  }
+
+  /* Add this style to highlight the phrase */
+.highlight {
+    color: #fbbe63; /* Change the color as needed */
+    font-weight: bold;
+   
+  }
+  
+  
+  /* Basic styling */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  header h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .about-section, .join-section {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
