@@ -1,6 +1,8 @@
 @import '~video.js/dist/video-js.css';
 @import '~@videojs/themes/dist/forest/index.css';
 
+
+
 /* Video.js CSS START */
 .vjs-theme-forest {
   --vjs-theme-forest--primary: rgb(129,140,248);
@@ -12,7 +14,9 @@
 
 .video-js {
   position: initial;
-  background-color: #283046;
+  background-color: initial;
+  width: 0px;
+  height:0px;
 
 }
 
